@@ -11,7 +11,7 @@
 8.影像整理 roi.m >clear_line_strength_img.jpg  
 9.影像二值化 ostu.m >threshold_line_strength_img.jpg  
 10.區域劃分 split.m >  
-...*split_img_1.jpg  
+....................1.split_img_1.jpg  
 split_img_2.jpg  
 split_img_3.jpg  
 split_img_4.jpg  
