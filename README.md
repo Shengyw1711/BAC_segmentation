@@ -11,12 +11,12 @@
 8.影像整理 roi.m >clear_line_strength_img.jpg  
 9.影像二值化 ostu.m >threshold_line_strength_img.jpg  
 10.區域劃分 split.m >  
-....................1.split_img_1.jpg  
-split_img_2.jpg  
-split_img_3.jpg  
-split_img_4.jpg  
-split_img_5.jpg  
-split_img_6.jpg  
+...1.split_img_1.jpg  
+...2.split_img_2.jpg  
+...3.split_img_3.jpg  
+...4.split_img_4.jpg  
+...5.split_img_5.jpg  
+...6.split_img_6.jpg  
 11.區域生長 region_grow.m >  
 region_grow_img_1.jpg  
 region_grow_img_2.jpg  
