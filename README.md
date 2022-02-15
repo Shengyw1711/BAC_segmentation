@@ -18,10 +18,10 @@
 ....split_img_5.jpg  
 ....split_img_6.jpg  
 11.區域生長 region_grow.m >  
-region_grow_img_1.jpg  
-region_grow_img_2.jpg  
-region_grow_img_3.jpg  
-region_grow_img_4.jpg  
-region_grow_img_5.jpg  
-region_grow_img_6.jpg  
+....region_grow_img_1.jpg  
+....region_grow_img_2.jpg  
+....region_grow_img_3.jpg  
+....region_grow_img_4.jpg  
+....region_grow_img_5.jpg  
+....region_grow_img_6.jpg  
 12.區域接合 join.m >region_grow_img.jpg  
