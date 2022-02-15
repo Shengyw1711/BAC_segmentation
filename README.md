@@ -7,8 +7,8 @@
 按以下順序執行程式  
 1.標籤移除 Remove/remove_label.m >remove_label_image.jpg  
 2.胸肌移除 Remove/remove_pectoral_muscle.m >remove__pectoral_muscle.jpg  
-3.前後黑色區域移除 cropped.m >croped_img.jpg  
-4.固定尺寸 resize.m >resize_img.jpg  
+3.前後黑色區域移除 crop/cropped.m >croped_img.jpg  
+4.固定尺寸 crop/esize.m >resize_img.jpg  
 5.高斯模糊 blur.m >blur_img.jpg  
 6.線段強化 line_strength.m >line_strength_img.jpg  
 7.影像整理 roi.m >clear_line_strength_img.jpg  
