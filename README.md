@@ -9,7 +9,7 @@
 2.胸肌移除 Remove/remove_pectoral_muscle.m >remove__pectoral_muscle.jpg  
 3.前後黑色區域移除 crop/cropped.m >croped_img.jpg  
 4.固定尺寸 crop/esize.m >resize_img.jpg  
-5.高斯模糊 blur.m >blur_img.jpg  
+5.高斯模糊 blur/blur.m >blur_img.jpg  
 6.線段強化 line_strength.m >line_strength_img.jpg  
 7.影像整理 roi.m >clear_line_strength_img.jpg  
 8.影像二值化 ostu.m >threshold_line_strength_img.jpg  
