@@ -10,9 +10,10 @@
 7.線段強化 line_strength.m >line_strength_img.jpg  
 8.影像整理 roi.m >clear_line_strength_img.jpg  
 9.影像二值化 ostu.m >threshold_line_strength_img.jpg  
-10.區域劃分 split.m >split_img_1.jpg  
-split_img_2.jpg  
-split_img_3.jpg  
+10.區域劃分 split.m >
+                     split_img_1.jpg  
+                     split_img_2.jpg  
+                     split_img_3.jpg  
                      split_img_4.jpg  
                      split_img_5.jpg  
                      split_img_6.jpg  
