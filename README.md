@@ -5,7 +5,7 @@
 程式的目的:以"區域生長"和"線段強化"這兩個影像處理演算法分割出影像中的病灶區域  
 
 按以下順序執行程式  
-1.標籤移除 remove_label.m >remove_label_image.jpg  
+1.標籤移除 Rremove_label.m >remove_label_image.jpg  
 2.胸肌移除 remove_pectoral_muscle.m >remove__pectoral_muscle.jpg  
 3.影像整理 roi.m >clear_remove_img.jpg  
 4.前後黑色區域移除 cropped.m >croped_img.jpg  
