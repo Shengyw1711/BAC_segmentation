@@ -1,5 +1,7 @@
 # BAC_segmentation
 
+這是一支“應用區域生長方法於乳房X光攝影影像中乳腺動脈鈣化區域分割”的程式碼,程式的目的是以"區域生長"和"線段強化"這兩個影像處理演算法分割出影像中的病灶區域  
+
 按以下順序執行程式  
 1.標籤移除 remove_label.m >remove_label_image.jpg  
 2.胸肌移除 remove_pectoral_muscle.m >remove__pectoral_muscle.jpg  
